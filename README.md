@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Discord Bots
-- 🌱 I’m currently learning ... node.js
-- 📫 How to reach me: ... !Dae#0007 / RB#3159
+###🔭 I’m currently working on ... Discord Bots
+###🌱 I’m currently learning ... node.js
+###📫 How to reach me: ... !Dae#0007 / RB#3159
 -->
